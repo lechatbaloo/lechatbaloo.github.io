@@ -208,12 +208,14 @@ optgroup {
 }
 
 table {
+  font-size: 18px;
   border-collapse: collapse;
   border-spacing: 0;
 }
 
 td,
 th {
+  border: solid 1px;
   padding: 0;
 }
 
